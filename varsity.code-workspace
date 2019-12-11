@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\ProjetVARSITY"
+		},
+		{
+			"path": "scss"
+		},
+		{
+			"path": "assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ProjetVARSITY"
+	}
+}
